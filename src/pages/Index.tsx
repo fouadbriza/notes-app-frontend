@@ -159,11 +159,8 @@ const Index = () => {
             <div className="w-6 h-6 rounded-lg bg-gradient-primary flex items-center justify-center">
               <span className="text-primary-foreground font-bold text-xs">N</span>
             </div>
-            <span className="text-sm text-muted-foreground">Notes App © 2024</span>
+            <span className="text-sm text-muted-foreground">Notes App © 2025</span>
           </div>
-          <p className="text-xs text-muted-foreground">
-            Built with React, TypeScript, and modern web technologies.
-          </p>
         </div>
       </footer>
     </div>
