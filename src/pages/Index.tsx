@@ -45,7 +45,7 @@ const Index = () => {
                 <span className="text-primary-foreground font-bold text-sm">N</span>
               </div>
               <h1 className="text-xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-                Notes App
+                Notes Volt
               </h1>
             </div>
             <div className="flex items-center gap-3">
