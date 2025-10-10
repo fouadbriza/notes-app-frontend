@@ -39,7 +39,7 @@ export const Header = ({ onCreateNote }: HeaderProps) => {
               <span className="text-primary-foreground font-bold text-sm">N</span>
             </div>
             <h1 className="text-2xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-              Notes App
+              Notes Volt
             </h1>
           </div>
 
